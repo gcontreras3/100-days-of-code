@@ -13,3 +13,9 @@ Link to work: SearchBar App
 Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
 
 ### R1D2
+
+Today's Progress: Spent more time working on my SearchBar App, I was able to grab the users input, next I will learn how to display that onto a list, preferably an ordered list. This project has a lot of buiding components in which I broke down into small steps, I am completing the steps in order because I have found that I am jumping from one component to another without actually solving the issue.
+
+Thoughts: Today was a pain but with practice comes perfection.
+
+Link to work: SearchBar App
