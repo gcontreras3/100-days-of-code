@@ -3,6 +3,7 @@
 The log of my #100DaysOfCode challenge. Started on [June 09th, 2023 Friday].
 
 ## Log
+## R1D1
 Today's Progress: Spent time working on the SearchBarApp
 
 Thoughts: I am feeling really excited to take on this challenge.
