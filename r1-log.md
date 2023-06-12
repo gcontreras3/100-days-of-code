@@ -19,3 +19,11 @@ Today's Progress: Spent more time working on my SearchBar App, I was able to gra
 Thoughts: Today was a pain but with practice comes perfection.
 
 Link to work: SearchBar App
+
+### R1D3
+
+Today's Progress: Today I tried to figure out how to add a name to the contact list but I was unable to figure how to do that, instead I skipped this section and added a filter function. I decided to add it since I knew how I could filter the results. Without the component to add names to the list, I have a filter function that does not work properly.
+
+Thoughts: I've decided that I need to study on this feature more, I really want to get it down so I can complete the project.
+
+Link to work: SearchBar App
