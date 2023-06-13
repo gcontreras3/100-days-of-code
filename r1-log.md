@@ -27,3 +27,13 @@ Today's Progress: Today I tried to figure out how to add a name to the contact l
 Thoughts: I've decided that I need to study on this feature more, I really want to get it down so I can complete the project.
 
 Link to work: SearchBar App
+
+### R1D4
+
+Today's Progress: Today I continued working on the SearchBar App, I was able to get input to show but I am unable to get it to stick on the page, I need this to save onto local storage in order to keep record of the contacts. I also am going to pair program with a coworker tomorrow to figure out the issue.
+
+On another note: I started learning Java programming and am going to start building my projects with it.
+
+Thoughts: Excited to learn Java
+
+Link to work: SearchBar App
