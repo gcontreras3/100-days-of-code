@@ -37,3 +37,10 @@ On another note: I started learning Java programming and am going to start build
 Thoughts: Excited to learn Java
 
 Link to work: SearchBar App
+
+### R1D5
+
+Today's Progress: Today I pair programmed with someone to help with the project since I have been stuck on getting user input to display on the page.
+I learned more Java, learned about shortcuts to running a program. I learned what classes were that most Java programs consist of.
+
+Thoughts: I am really enjoying Java in a nutshell.
