@@ -44,3 +44,10 @@ Today's Progress: Today I pair programmed with someone to help with the project 
 I learned more Java, learned about shortcuts to running a program. I learned what classes were that most Java programs consist of.
 
 Thoughts: I am really enjoying Java in a nutshell.
+
+### R1D6
+
+Today's Progress: Today I learned OOP concepts with Java.
+    I also worked a bit on the SearchBar App, which I should have it completed by Day 8.
+
+    Thoughts: I am enjoying Java.
