@@ -51,3 +51,11 @@ Today's Progress: Today I learned OOP concepts with Java.
     I also worked a bit on the SearchBar App, which I should have it completed by Day 8.
 
     Thoughts: I am enjoying Java.
+
+### R1D7
+
+Today's Progress: I started a project with Java and springboot, I tried making a connection to MongoDB but I was getting an error that I am going to debug tomorrow.
+
+    Thoughts: Really enjoying Java.
+
+    No link yet
