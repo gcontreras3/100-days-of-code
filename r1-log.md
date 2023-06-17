@@ -59,3 +59,8 @@ Today's Progress: I started a project with Java and springboot, I tried making a
     Thoughts: Really enjoying Java.
 
     No link yet
+### R1D8
+
+Today's Progress: I continued working on the SearchBar App, just need to finalize a few things and get it styled to complete.
+
+    Also did a code along with Java doing a snake game which helped me understand a few more concepts with packages and OOP.
