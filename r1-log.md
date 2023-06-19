@@ -64,3 +64,8 @@ Today's Progress: I started a project with Java and springboot, I tried making a
 Today's Progress: I continued working on the SearchBar App, just need to finalize a few things and get it styled to complete.
 
     Also did a code along with Java doing a snake game which helped me understand a few more concepts with packages and OOP.
+
+### R1D9
+
+Today's Progress: Continued learning Java, variables & data types, arrays, methods.
+Started a calculator app to help me understand what I am learning from the Java course.
